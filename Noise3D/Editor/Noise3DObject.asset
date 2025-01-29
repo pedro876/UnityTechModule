@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 873326ff01c67474b866b5eb3659c601, type: 3}
+  m_Name: Noise3DObject
+  m_EditorClassIdentifier: 
+  autoSelect: 1
+  textureName: Gloom
+  resolution: 64
+  generateMipMaps: 0
+  seed: 0
+  cells: 4
+  smoothInterpolation: 1
+  edge0: 0
+  edge1: 1
+  power: 1
+  octaveLayers: 3
+  withNormals: 0
+  normalsDisplacement: 0.05
+  normalSamples: 64
+  method: 2
